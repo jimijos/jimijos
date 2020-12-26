@@ -5,10 +5,3 @@
 ### Hi there 👋
  💬 Feel free to connect....
  
- 
- <a href="https://github.com/jimijos/jimijos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jimijos&repo=jimijos" />
-</a>
-<a href="https://github.com/jimijos/e-com-server-amazon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jimijos&repo=e-com-server-amazon" />
-</a>
