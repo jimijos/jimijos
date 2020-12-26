@@ -1,9 +1,9 @@
 ![Capture-removebg-1](https://user-images.githubusercontent.com/63320311/99194294-70fa2d00-2776-11eb-879d-e3a64dbd71be.jpeg)
 
-<a href="https://github.com/jimijos/github-readme-stats">
+<a href="https://github.com/anuraghazraanuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jimijos&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/jimijos/convoychat">
+<a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jimijos&repo=convoychat" />
 </a>
 
